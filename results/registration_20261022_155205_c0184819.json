@@ -1,0 +1,22 @@
+{
+    "registered_at": "2026-10-22T15:52:05",
+    "name": "jamal mahamed ali",
+    "email": "jamal.malow55@gmail.com",
+    "age": 60,
+    "password_hash": {
+        "salt": "f786d77f6aa41d2bb51fb0b4e93391ef",
+        "hash": "630130e24cbb2cb91d547062116772521dd1a6c9d22b0f67b6b65abeaf0b79cd"
+    },
+    "password_strength_score": 80,
+    "password_grade": "B",
+    "registration_checks": {
+        "Name provided": true,
+        "Email format valid": true,
+        "Age in accepted range": true,
+        "Password sufficiently strong": true,
+        "Password confirmation matched": true,
+        "Password hash verified": true
+    },
+    "registration_score": 100,
+    "registration_grade": "A"
+}
